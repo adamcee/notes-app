@@ -7,7 +7,7 @@ function App() {
   const notesData = [
     {
       title: "Note #1",
-      message: "This is my 1st note!",
+      message: "This is my 1st note!!!!",
     },
     {
       title: "Note #2",
